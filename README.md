@@ -55,19 +55,19 @@ Intelligent multi-agent system for autonomous medicine delivery, emergency respo
 
 **Programming**
 
-Python • C++ • MATLAB
+Python | C++ | MATLAB
 
 **Robotics**
 
-ROS 2 • Gazebo • LiDAR • GNSS • Sensor Fusion
+ROS 2 | Gazebo | LiDAR | GNSS | Sensor Fusion
 
 **AI & Computer Vision**
 
-PyTorch • TensorFlow • OpenCV • CNNs • Semantic Segmentation • Object Detection
+PyTorch | TensorFlow | OpenCV | CNNs | Semantic Segmentation | Object Detection
 
 **Tools**
 
-Linux • Git • CUDA • NVIDIA Jetson • Jupyter
+Linux | Git | CUDA | NVIDIA Jetson | Jupyter
 
 ---
 
