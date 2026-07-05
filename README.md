@@ -40,13 +40,6 @@ GNSS-integrated embedded system for automated underwater camera depth control an
 
 ---
 
-### RGB-D Semantic Segmentation for Indoor Scene Understanding
-**PyTorch | OpenCV | ResNet50 | RGB-D Perception**
-
-Dual-stream deep learning framework for semantic segmentation using fused RGB and depth information for indoor scene understanding.
-
----
-
 ### Autonomous Hospital Multi-Agent System
 **Python | SPADE-BDI | Multi-Agent Systems**
 
@@ -83,3 +76,4 @@ Linux • Git • CUDA • NVIDIA Jetson • Jupyter
 **LinkedIn**
 
 https://www.linkedin.com/in/apurvapalaniappan
+
