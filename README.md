@@ -4,7 +4,7 @@
 
 I'm a Master's student in **Robotics and Autonomous Systems at the University of Turku, Finland**, with a Bachelor's degree in Robotics and Automation.
 
-My academic projects span multi-robot navigation, embedded control, multi-agent systems, and deep learning for visual perception. I'm interested in how robots combine perception, decision-making, and control to operate autonomously.
+My academic projects span multi-robot navigation, embedded control, multi-agent systems, and deep learning. I'm interested in how robots combine perception, decision-making, and control to operate autonomously.
 
 ## Selected Projects
 
