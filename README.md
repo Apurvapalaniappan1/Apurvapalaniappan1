@@ -32,11 +32,11 @@ Developed and evaluated Faster R-CNN and RetinaNet models for car detection, alo
 
 Implemented nurse and cleaning agents for a simulated hospital environment, combining medicine delivery, emergency response, and cleaning with priority-based decisions and BFS navigation.
 
-### [CNN-Based Image Classification and Hyperparameter Analysis](https://github.com/Apurvapalaniappan1/cnn-hyperparameter-analysis-cifar100)
+### [Emotion Classification – MLP vs DistilBERT](https://github.com/Apurvapalaniappan1/emotion-classification-mlp-distilbert)
 
-**TensorFlow | Keras | CNNs | CIFAR-100**
+**Python | PyTorch | Hugging Face | NLP | Transformers**
 
-Built CNN classifiers from scratch for two balanced 10-class CIFAR-100 subsets. Compared architecture and training settings across 36 training runs per complete execution, analysing performance differences and experimental limitations.
+Developed and evaluated an MLP baseline and fine-tuned DistilBERT for emotion classification on a 20,000-text dataset. Compared accuracy and macro-F1 scores, analysing model performance and observing that the simpler MLP baseline outperformed DistilBERT in the experiments.
 
 ## Technical Skills
 
@@ -47,7 +47,7 @@ Python | C++ | MATLAB
 ROS 2 | Gazebo | TurtleBot3 | GNSS | LiDAR
 
 **AI and Computer Vision**  
-PyTorch | TensorFlow | Keras | OpenCV | CNNs | Object Detection | Semantic Segmentation
+PyTorch | TensorFlow | Keras | Hugging Face | Transformers | NLP | OpenCV | CNNs | Object Detection | Semantic Segmentation | Model Evaluation
 
 **Embedded Platforms and Tools**  
 Raspberry Pi | NVIDIA Jetson | Linux | Git | Jupyter Notebook
